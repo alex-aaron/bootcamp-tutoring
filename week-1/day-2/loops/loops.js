@@ -23,3 +23,10 @@ function createBooleanEntries(array, name){
 function getCoursesByYear(array, year){
     
 }
+
+
+
+
+
+
+

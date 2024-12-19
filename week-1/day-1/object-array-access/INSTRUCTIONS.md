@@ -49,14 +49,3 @@ Date of Last Course: 09/15/2023 (Bootcamp)
 ```
 
 
-
-
-
-
-
-Create a function called `getLastRoleAndDateArray` that takes in one parameter - `array` - which represents an an array of student objects like the one featured in the data.js file. This function should return a new array of strings of the role and date for the last observation recorded for the last phase that each student has attended.
-```
-// example output
-getLastRoleAndDateArray();
-// returns => ['Instructor - 11/06/2024', 'Student Success Coordinator - 08/21/2023', 'Student Success Coordinator - 10/05/2023'];
-```
